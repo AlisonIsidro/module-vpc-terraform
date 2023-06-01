@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<!-- saved from url=(0109)https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDialog.aspx?P4wzpHKNbNSx90Kijh8fL%2bwyU%2bYGD%2fHa -->
+<html xmlns="http://www.w3.org/1999/xhtml" class=" BASEPAGE PortalCode3 SystemModuleLearning AUTH Web-Lms-Student-PrintCertificateDialog t-chrome t-chrome99"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link href="./Certificado Redes_files/allcss.min.css" type="text/css" rel="stylesheet"><link rel="shortcut icon" type="image/x-icon" href="https://lms.ev.org.br/mpls/APP_Themes/Tema3x/favicon.ico"><link href="./Certificado Redes_files/sweetalert2.min.css" rel="stylesheet" type="text/css">
+		<script language="javascript" src="./Certificado Redes_files/underscore-min.js.download"></script>
+		<script language="javascript" src="./Certificado Redes_files/MPLS_PortalUtils.js.download"></script>
+		<script language="javascript" src="./Certificado Redes_files/Template.js.download"></script>
+		<script language="javascript" src="./Certificado Redes_files/MPLS_CommonRadControls.js.download"></script>
+		<script language="javascript">var __cc_urlbase='/mpls/WebChat/CuteChat/';</script>
+		<script language="javascript" src="./Certificado Redes_files/IntegrationUtility.js.download"></script></head><body><div id="pmmessageswindow" style="Z-INDEX: 99999;position:absolute;visibility:hidden;left:0px;top:0px;border:solid 1px gray;background-color:white;padding:4px;"><a href="javascript:Chat_OpenMessages();"><div style="text-align:center;background-color:steelblue;color:white;">Messages</div><div id="pmmessagespanel" style="padding:4px;"></div></a><div style="margin-top:0px;margin-left:50px"><a href="javascript:Chat_CloseMessages();"><img src="./Certificado Redes_files/closechat.gif" border="0"></a></div></div>
+
+<title>
+	Performa
+</title>
+
+    <form name="ctl01" method="post" action="https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDialog.aspx?P4wzpHKNbNSx90Kijh8fL%2bwyU%2bYGD%2fHa" id="ctl01">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VSTATE" id="__VSTATE" value="H4sIAAAAAAAEAJVRwW7TQBDFJpZACPkAyrGsIkUGAbZT0ZA2dTkEiaKWENFCxQmts2N7infX3Z3UCRe+BfEp/Ra+A7Yhlbhymd2Zfe/Nm9nfXijC4N7zwc7OcHcwHI5ehg+f3vK7/taDT7xGwQk+wMUCLL3TAnyv7Pr+7VB0O763iaHDdk5hScHZTBtW8EttnrHGgLWoFTDNck1XPzXroWwMSjQ9BoyfLyxdPxbaSE6aCc6aqx8lKndyw1lvxtHyEmQvFsK1DLudR15w5+1GY+v+ezWpERS5OP8afKcKbeyYrjJ1Tv+9WlrVEAu0Tc1XLGORcr6iMWtRCd3GTlDR4ydj9j8Sjm6AFka5gWsL47VHt4m7qBSYimQd/PL2sTBcAkORRagKfapn172+pBGzZp5FFVFj95KkljaGy1ibMs5NIpvaJmeQJ8fSJie0EM5EsiZOwBAWOHefMtGKXD3mtlm+mr1ovzWHR9N8erLcTY/wvBoVx/3tvF19dPHzm9f97eKQR0xy4xbcoqAqi9KbvAIsK1oX1nZzbQSYzG0pYhvsIE37EbsBjtI0OthP/g53IP4As9yNukMCAAA=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['ctl01'];
+if (!theForm) {
+    theForm = document.ctl01;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="./Certificado Redes_files/WebResource.axd" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var mplsRootPath='/mpls';var mplsSelectedPortalId='3';var customJsPathPage='Web-Lms-Student-PrintCertificateDialog';var mplsRootPathTheme='/mpls/APP_Themes/Tema3x';document.documentElement.className+=' BASEPAGE PortalCode3 SystemModuleLearning AUTH Web-Lms-Student-PrintCertificateDialog';//]]>
+</script>
+
+<script src="./Certificado Redes_files/ScriptResource.axd" type="text/javascript"></script>
+<script src="./Certificado Redes_files/ScriptResource(1).axd" type="text/javascript"></script>
+<script src="./Certificado Redes_files/ScriptResource(2).axd" type="text/javascript"></script>
+<script src="./Certificado Redes_files/toastr.js.download" type="text/javascript"></script>
+<script src="./Certificado Redes_files/InViewPort.js.download" type="text/javascript"></script>
+<script src="./Certificado Redes_files/jquery.chosen.js.download" type="text/javascript"></script>
+<script src="./Certificado Redes_files/jquery.ui.timepicker.js.download" type="text/javascript"></script>
+<script src="./Certificado Redes_files/sweetalert2.min.js.download" type="text/javascript"></script>
+<script src="./Certificado Redes_files/service-worker-register.js.download" type="text/javascript"></script>
+<script src="./Certificado Redes_files/custom.js.download" type="text/javascript"></script>
+        <div id="pnlMsg" class="BoxAdmin BoxContentBackGround" style="width: 100%;">
+	
+            <p align="center">
+                <span id="Label1">Por favor, pressione o botão "imprimir" e ajuste o formato da página para "Paisagem".</span></p>
+            <p align="center">
+                <input type="button" name="btPrint" value="Imprimir" onclick="this.parentNode.parentNode.style.display = &#39;none&#39;; window.print(); this.parentNode.parentNode.style.display = &#39;&#39;; return false;__doPostBack(&#39;btPrint&#39;,&#39;&#39;)" id="btPrint"></p>
+        
+</div>
+
+        <div id="infoToPrint"><iframe id="infoToPrint_0" src="./Certificado Redes_files/PrintCertificateContent.html" marginwidth="0" marginheight="0" frameborder="no" width="100%" height="800" style="height: 800px; width: 1371px;"></iframe></div>
+
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'ctl01', [], [], [], 7260, '');
+//]]>
+</script>
+
+    </form>
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            $('#infoToPrint iframe').load(function () {
+                $(this).height($(this).contents().height());
+                $(this).width($(this).contents().width());
+            });
+        });
+
+    </script>
+
+
+</body></html>

@@ -1,0 +1,124 @@
+Tags HTML: Estruturas HTML
+
+<>               abertura 
+</>              fechamento
+<b>              Deixar em Negrito
+<!doctype>       tipo de documento HTML utilizado
+<html> </html>   tag html da estrutra de toda a página web.
+<head>           Parte que não é exibida no navegador da Web quando a página é carregada ( Animações , interações com o usuário)
+<title>          Título da Página
+<meta charset="utf-8">  Define que você pode colocar assentos na página web
+<body>           Informações que aparecem diretamente para o usuário ( background= fundo da página)
+Tags de Cabeçalho:
+<br> Quebra de texto
+<h(número)> tag de cabeçalho
+1 ao 6 ( MAIOR para o Menor )
+Tags de Parágrafos:
+<p> Paragráfo , agrupar linhas e definir 
+<hr> Cria automaticamente uma linha
+
+Formatação de Textos:
+<strong> Deixa o texto em Negrito
+<em> Deixa o texto em Itálico
+<strike> Linha abaixo do texto
+
+<ul> lista não ordenada
+Comentário (Informações sobre o código) : <!-- circle,square,disc -->
+Atributo: type="circle"
+                square
+                disc
+               
+                
+	<li> coloca componentes da lista
+
+
+<ol> lista ordenada
+Númera a lista
+Comentário (Informações sobre o código) : <!-- A,a,1,I,i -->
+Atributo: type="1,A"
+
+
+Imagens :
+ <img src="nome-da-imagem">
+ width= largura
+ height= altura
+
+
+Criar Links entre as páginas:
+<a href=""> 
+
+
+Tabelas :
+
+<table> cria uma tabela ( atributos ) "border"="number"
+   <tr> table row : 
+    <td> Dados da Tabela
+
+</table>
+
+
+
+Formulários:
+
+ <form> ( cria formulário)
+          
+          Login:<br>
+          <input type="" name="login"><br> (escrita de dados por exemplo campo de digitar senha)
+
+          Senha:<br>
+          <input type="password" name="senha"><br> ( não aparece a senha )
+
+          <input type="submit" value="Logar"> (Botão)
+                        ENVIAR
+
+      </form>
+
+<h2>Cadastre-se</h2>
+      Login:<br>
+      <input type="text" name="login">
+      <br>
+
+      sexo: 
+      <br>
+      <input type="radio" name="sexo"> Masculino<br> ( selecionar informação em circulo )
+      <input type="radio" name="sexo"> Feminino<br><br>
+
+      Interesses<br>
+      <input type="checkbox" name=""> Redes de Computadores ( selecionar infomração em quadrinho )
+      <br>
+      <input type="checkbox" name="">Desenvolvimento de Sistemas
+      <br>
+       <input type="checkbox" name="">Múltimida
+      <br>
+
+      <br>
+      Estado
+      <br>
+      <select name="estado"> ( selecionar opção)
+          <option>SP</option>
+          <option>RJ</option>
+          <option>ES</option>
+          <option>MG</option>
+      </select><br><br>
+
+      Observações: <br>
+      <textarea></textarea><br> ( cria opção de caixa de escrito , por exemplo comentários)
+
+      <input type="submit" value="Cadastrar"> ( botão final de cadastro)
+
+
+
+
+AWS Security Hub Usar vinculados ao serviço AWS Config regras para executar a maioria de suas verificações de segurança para controles.
+
+Para suportar esses controles,AWS Config deve estar habilitado em todas as contas — tanto na conta principal quanto nas contas de membro — em cada região em que o Security Hub está ativado.AWS Config deve ser configurado para registrar, no mínimo, os recursos necessários para os padrões que você ativou.
+
+
+
+
+
+
+
+
+
+
